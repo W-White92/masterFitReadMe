@@ -35,4 +35,7 @@
     치수가 적용된 패턴을 HPGL(Hewlett-Packard Graphics Language)로 변환하여 플로터로 출력할 수 있습니다. QT로 제작된 MasterFitFlotter 프로그램을 사용합니다.
     플로터의 펜 설정이 가능하여 패턴 조각이 커팅된 상태로 출력이 가능합니다.
 
+---
+![img](https://user-images.githubusercontent.com/67298740/176722057-264f9c9e-688e-4786-9732-f6d0572aed24.png)
+
 
