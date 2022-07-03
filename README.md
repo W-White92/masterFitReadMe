@@ -36,7 +36,12 @@
     플로터의 펜 설정이 가능하여 패턴 조각이 커팅된 상태로 출력이 가능합니다.
 
 ---
-![image](https://user-images.githubusercontent.com/67298740/176832423-3390cdf3-0212-4769-b383-57004c752c07.jpg)
+![image](https://user-images.githubusercontent.com/67298740/176832423-3390cdf3-0212-4769-b383-57004c752c07.jpg)  
+
+![point_function_popup](https://user-images.githubusercontent.com/67298740/177034195-de51d3ae-21e2-4336-8e4f-bfd88362e887.png)  
+
+![point_function](https://user-images.githubusercontent.com/67298740/177034203-579fec7f-a80a-4d31-b7bd-1afcb33cd66b.png)
+
 
 
 
